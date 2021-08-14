@@ -1,0 +1,9 @@
+REFERENCIAS MPC:
+
+https://www.sciencedirect.com/science/article/pii/000510989390049Y
+http://oaji.net/articles/2017/5082-1501183303.pdf
+https://www.sciencedirect.com/science/article/pii/0009250973800259
+https://www.researchgate.net/publication/3699292_Robust_internal_model_control_of_a_binary_distillation_column
+https://www.sciencedirect.com/science/article/pii/0005109878900018
+https://controlautomaticoeducacion.com/control-predictivo/mpc-toolbox-matlab-tutorial/
+https://controlautomaticoeducacion.com/control-predictivo/mimo-mpc/
